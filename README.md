@@ -18,5 +18,5 @@ card_v02_edge (7).avi 참고
 
 `### TO DO
 
-- [] detected points 보간
+- [ ] detected points 보간
 
