@@ -13,3 +13,10 @@ datasets03에 배경 (b_xx.jpg)는 많을수록 좋음
   <img src="https://github.com/stimong/card_edge_detection/blob/main/s01.png" width="350" title="hover text">
 </p>
 
+동영상 샘플은 
+card_v02_edge (7).avi 참고
+
+`### TO DO
+
+- [x] detected points 보간
+
